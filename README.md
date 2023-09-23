@@ -1,4 +1,4 @@
-# ImageToText Application
+# Image To Text Application
 
 **Technologies**
 
